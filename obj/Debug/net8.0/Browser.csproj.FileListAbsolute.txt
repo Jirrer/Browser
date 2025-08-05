@@ -1,0 +1,15 @@
+C:\Users\jrirr\OneDrive\open_projects\Browser\bin\Debug\net8.0\Browser.exe
+C:\Users\jrirr\OneDrive\open_projects\Browser\bin\Debug\net8.0\Browser.deps.json
+C:\Users\jrirr\OneDrive\open_projects\Browser\bin\Debug\net8.0\Browser.runtimeconfig.json
+C:\Users\jrirr\OneDrive\open_projects\Browser\bin\Debug\net8.0\Browser.dll
+C:\Users\jrirr\OneDrive\open_projects\Browser\bin\Debug\net8.0\Browser.pdb
+C:\Users\jrirr\OneDrive\open_projects\Browser\obj\Debug\net8.0\Browser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jrirr\OneDrive\open_projects\Browser\obj\Debug\net8.0\Browser.AssemblyInfoInputs.cache
+C:\Users\jrirr\OneDrive\open_projects\Browser\obj\Debug\net8.0\Browser.AssemblyInfo.cs
+C:\Users\jrirr\OneDrive\open_projects\Browser\obj\Debug\net8.0\Browser.csproj.CoreCompileInputs.cache
+C:\Users\jrirr\OneDrive\open_projects\Browser\obj\Debug\net8.0\Browser.sourcelink.json
+C:\Users\jrirr\OneDrive\open_projects\Browser\obj\Debug\net8.0\Browser.dll
+C:\Users\jrirr\OneDrive\open_projects\Browser\obj\Debug\net8.0\refint\Browser.dll
+C:\Users\jrirr\OneDrive\open_projects\Browser\obj\Debug\net8.0\Browser.pdb
+C:\Users\jrirr\OneDrive\open_projects\Browser\obj\Debug\net8.0\Browser.genruntimeconfig.cache
+C:\Users\jrirr\OneDrive\open_projects\Browser\obj\Debug\net8.0\ref\Browser.dll
