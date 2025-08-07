@@ -11,3 +11,5 @@ build_property.RootNamespace = Browser
 build_property.ProjectDir = C:\Users\jrirr\OneDrive\open_projects\Browser\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.EffectiveAnalysisLevelStyle = 8.0
+build_property.EnableCodeStyleSeverity = 
